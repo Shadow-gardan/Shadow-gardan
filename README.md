@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Shadow-gardan
-- 👀 I’m interested in makeing website
-- 🌱 I’m currently learning wed design
-- 💞️ I’m lovieng working alone
 - 📫 doing coding is my life
 - 😄 Pronouns: none
 - ⚡ Fun fact: nothing
