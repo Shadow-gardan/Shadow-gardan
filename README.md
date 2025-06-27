@@ -2,8 +2,7 @@
 - 📫 doing coding is my life
 - 😄 Pronouns: none
 - ⚡ Fun fact: nothing
-
-<!---
-Shadow-gardan/Shadow-gardan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⌨️ Eat. Sleep. Code. Repeat.
+- 🔍 Semicolon missing? Welcome to hell
+- 🧩 Code is poetry written in logic.
+- 🧠 Write code as if the next person who reads it knows where you live.
