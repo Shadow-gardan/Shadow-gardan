@@ -2,7 +2,6 @@
 - 📫 doing coding is my life
 - 😄 Pronouns: none
 - ⚡ Fun fact: nothing
-- ⌨️ Eat. Sleep. Code. Repeat.
 - 🔍 Semicolon missing? Welcome to hell
 - 🧩 Code is poetry written in logic.
 - 🧠 Write code as if the next person who reads it knows where you live.
