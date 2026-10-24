@@ -1,35 +1,26 @@
-<!-- ═══════════════ HEADER (animated waving banner) ═══════════════ -->
+<!-- ═══════════════ HEADER IMAGE ═══════════════ -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/bd/b4/ed/bdb4edcca1bee1ed1bd38678c20c447c.jpg type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Aman%20Singh%20Rawat&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Explorer&descAlignY=58&descSize=20" width="100%" alt="header" />
+  <img src="https://i.pinimg.com/1200x/bd/b4/ed/bdb4edcca1bee1ed1bd38678c20c447c.jpg" width="100%" alt="Header" />
+</p>
+
+<!-- ═══════════════ WAVING BANNER + NAME ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Aman%20Singh%20Rawat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" alt="name banner" />
 </p>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <p align="center">
-  <a href="https://github.com/shadow-gardan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Singh+Rawat;A+passionate+Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+sleek+UIs+with+React+%26+JavaScript;Currently+learning+AI+%26+ML+%F0%9F%A4%96;Turning+ideas+into+cinematic+web+experiences+%F0%9F%8E%AC" alt="Typing SVG" />
+  <a href="https://github.com/Shadow-gardan">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Singh+Rawat;A+passionate+Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+sleek+UIs+with+React+%26+JavaScript;Currently+learning+AI+%26+ML+%F0%9F%A4%96;Turning+ideas+into+cinematic+web+experiences+%F0%9F%8E%AC" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadow-gardan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shadow-gardan?style=for-the-badge&logo=github&color=8b5cf6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Shadow-gardan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Shadow-gardan?style=for-the-badge&logo=github&color=8b5cf6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Shadow-gardan?style=for-the-badge&logo=github&color=f5c518" alt="stars" />
   <img src="https://img.shields.io/badge/Open%20to-Work-00c853?style=for-the-badge" alt="open to work" />
 </p>
-
-<!-- ═══════════════ CINEMATIC MEDIA ═══════════════
-  OPTION 1 – GIF / PHOTO (works everywhere):
-  Upload your photo or a GIF to your repo (e.g. /assets/banner.gif) and use:
-
-  <p align="center">
-    <img src="./assets/banner.gif" width="85%" style="border-radius:16px" alt="cinematic banner" />
-  </p>
-
-  OPTION 2 – REAL VIDEO:
-  Open this README in GitHub's editor, drag & drop your .mp4 into it.
-  GitHub uploads it and inserts a link like
-  https://github.com/user-attachments/assets/xxxxxxxx
-  Keep that link on its own line and it renders as a playable video.
--->
 
 <br/>
 
@@ -46,6 +37,8 @@
 |---|---|
 | 🌱 **Currently learning** | AI & ML |
 | 💻 **Focus** | Frontend development (React, JavaScript) |
+| 🔭 **Working on** | Personal projects & open-source contributions |
+| 🤝 **Open to collaborate on** | Frontend, web apps, AI/ML projects |
 | 📫 **Reach me** | [ar6477594@gmail.com](mailto:ar6477594@gmail.com) |
 | ⚡ **Fun fact** | I turn coffee into components |
 
@@ -57,7 +50,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <!-- Replace YOUR-LINKEDIN-ID and YOUR-LEETCODE-USERNAME with your real ones -->
+  <!-- Replace YOUR-LINKEDIN-ID and YOUR-LEETCODE-USERNAME with your real handles -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -69,6 +62,9 @@
   </a>
   <a href="mailto:ar6477594@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Shadow-gardan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -91,37 +87,65 @@
 
 <br/>
 
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<!-- Replace YOUR-REPO-1 / YOUR-REPO-2 with the names of your best repositories -->
+<p align="center">
+  <a href="https://github.com/Shadow-gardan/YOUR-REPO-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-gardan&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="repo 1" />
+  </a>
+  <a href="https://github.com/Shadow-gardan/YOUR-REPO-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shadow-gardan&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="repo 2" />
+  </a>
+</p>
+
+<br/>
+
 <!-- ═══════════════ GITHUB STATS ═══════════════ -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shadow-gardan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=en" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-gardan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=en" alt="top langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shadow-gardan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=en&count_private=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-gardan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=en" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shadow-gardan&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Shadow-gardan&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shadow-gardan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shadow-gardan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 </p>
 
 <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadow-gardan&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="95%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shadow-gardan&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f7ff&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6" width="95%" alt="activity graph" />
 </p>
 
+<br/>
+
 <!-- ═══════════════ SNAKE ANIMATION ═══════════════
-  Needs the workflow file `.github/workflows/snake.yml` (included separately).
-  After the first run it creates the `output` branch with these SVGs.
+  Generated by .github/workflows/snake.yml → pushed to the `output` branch.
+  Your profile repo MUST be named exactly: Shadow-gardan/Shadow-gardan
 -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadow-gardan/shadow-gardan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadow-gardan/shadow-gardan/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/shadow-gardan/shadow-gardan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadow-gardan/Shadow-gardan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadow-gardan/Shadow-gardan/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Shadow-gardan/Shadow-gardan/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</p>
+
+<br/>
+
+<!-- ═══════════════ SUPPORT ═══════════════ -->
+<h2 align="center">⭐ Support</h2>
+
+<p align="center">
+  If you like my work, drop a ⭐ on my repos and let's connect!
 </p>
 
 <!-- ═══════════════ QUOTE ═══════════════ -->
